@@ -1,0 +1,4 @@
+name: MicLoSLantern
+version: '${project.version}'
+main: net.syobonoon.plugin.micloslantern.MicLoSLantern
+api-version: 1.16
